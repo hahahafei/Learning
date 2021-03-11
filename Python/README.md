@@ -1,7 +1,6 @@
 # Python 
 
-<details><summary>Click to expand</summary>
-<p>
+* <p>
 This is a expandable section
 
 ```python
