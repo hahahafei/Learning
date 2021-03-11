@@ -1,6 +1,6 @@
 # Python 
 
-* <details><summary>Click to expand</summary>
+<details><summary>Click to expand</summary>
 <p>
 This is a expandable section
 
