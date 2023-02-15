@@ -1,4 +1,5 @@
 # Python 
+{:.no_toc}
 
 * TOC
 {:toc}
