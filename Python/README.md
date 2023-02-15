@@ -1,5 +1,7 @@
 # Python 
 
+[TOC]
+
 ## Basics
 * [String](basics/string.md)
 * [List](basics/list.md)
