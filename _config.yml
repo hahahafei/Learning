@@ -24,7 +24,9 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: bw
+syntax_highlighter_style: github
+
+# rouge theme preview link: https://spsarolkar.github.io/rouge-theme-preview/
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
