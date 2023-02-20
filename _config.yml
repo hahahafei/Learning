@@ -24,7 +24,7 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: github
+syntax_highlighter_style: base16_dark
 
 #base16
 
@@ -32,6 +32,9 @@ syntax_highlighter_style: github
 
 # rouge theme preview link: https://spsarolkar.github.io/rouge-theme-preview/,
 # https://mazhuang.org/rouge-themes/#base16monokai
+
+# rouge theme install: https://cssrepo.com/lib/brazacz-rouge-themes
+
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
