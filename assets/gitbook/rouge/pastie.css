@@ -68,7 +68,7 @@
 }
 .highlight .s, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .s1 {
   color: #dd2200;
-  background-color: #fff0f0;
+  /* background-color: #fff0f0;  */
 }
 .highlight .sa {
   color: #008800;
@@ -84,7 +84,7 @@
 }
 .highlight .sx {
   color: #22bb22;
-  background-color: #f0fff0;
+  /* background-color: #f0fff0; */
 }
 .highlight .sr {
   color: #008800;
