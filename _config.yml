@@ -24,7 +24,7 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: base16_light
+syntax_highlighter_style: base16_monokai_dark
 
 #base16
 
