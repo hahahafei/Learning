@@ -24,7 +24,9 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: pastie
+syntax_highlighter_style: magritte
+
+# pastie
 
 # rouge theme preview link: https://spsarolkar.github.io/rouge-theme-preview/,
 # https://mazhuang.org/rouge-themes/#base16monokai
