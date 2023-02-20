@@ -24,7 +24,7 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: gruvbox
+syntax_highlighter_style: github
 
 # pastie
 
