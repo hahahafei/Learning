@@ -36,8 +36,12 @@
     }
 }
 
-.book .book-body .book-header {
+/* .book .book-body .book-header {
     background: #ffffff;
+} */
+
+.book .book-body .book-header {
+    background: #6b6a6a;
 }
 
 .book.color-theme-1 .book-body .book-header {
